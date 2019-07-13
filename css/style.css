@@ -159,6 +159,10 @@ img, video, audio, iframe, table, form {
 
 /*/////// LAYOUT ////////*/
 
+.row {
+  margin-bottom: 20px;
+}
+
 .wrapper {
   width: 960px;
   margin: 0 auto;
